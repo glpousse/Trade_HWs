@@ -8,4 +8,4 @@ Theoretically,
 
 Empirically, 
 
-authors: Guillaume POUSSE, Vivan SHARMA
+authors: Guillaume POUSSE, Vivan SHARMA (@vivansharma2)
